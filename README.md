@@ -14,7 +14,7 @@ The goal is to understand and implement the complete robotics navigation pipelin
 
 ### Robot Simulation
 
-<img width="900" alt="Gazebo robot simulation" src="https://github.com/user-attachments/assets/30a8ecf6-3cf6-4e1c-bc1d-73b5ecc8f5be" />
+
 
 ### Robot Model and Sensors
 
