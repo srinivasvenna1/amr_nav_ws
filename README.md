@@ -10,25 +10,30 @@ The goal is to understand and implement the complete robotics navigation pipelin
 
 ---
 
-## Project Preview
-
-### Robot Simulation
-
+### 1. Map Loading
+![Map Loading](load-map.png)
 
 
-### Robot Model and Sensors
+### 2. Localization
+![Localization](localization-1.png)
 
-<!-- Add your robot model screenshot here using the same img format -->
+![Localization](localization-2.png)
 
-### SLAM Mapping
+![Localization](localization-3.png)
 
-<!-- Add your SLAM mapping screenshot here using the same img format -->
+![Localization](localization-4.png)
 
-### Autonomous Navigation
+### 4. SLAM Navigation
+![SLAM](navigation-slam.png)
 
-<!-- Add your Nav2 navigation screenshot here using the same img format -->
+### 5. ROS Graph
+![ROS Graph](rqt-graph.png)
 
----
+![ROS Graph](rqt-graph-1.png)
+
+### 6. Map Saving
+![Save Map](save-map.png)
+
 
 ## Project Objectives
 
